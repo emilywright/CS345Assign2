@@ -1,4 +1,4 @@
-public class actOnCard {
+public class ActOnCard {
 
   public successOnCard() {
 
