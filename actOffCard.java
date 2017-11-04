@@ -1,4 +1,4 @@
-public class actOffCard {
+public class ActOffCard {
 
   public successOffCard() {
 
