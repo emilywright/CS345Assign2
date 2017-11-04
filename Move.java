@@ -1,4 +1,4 @@
-public class move {
+public class Move {
 
   public enterScene() {
 
