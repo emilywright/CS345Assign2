@@ -8,7 +8,7 @@ public class Deadwood {
 
     public static int gameSetup(){
         int numberPlayers;
-        //startGame() numberPlayers;
+        return 0;
     }
 
     public static int gameManager() {
