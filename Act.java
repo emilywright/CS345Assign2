@@ -1,4 +1,4 @@
-public class act {
+public class Act {
 
   public actOnCard() {
 
