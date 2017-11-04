@@ -13,24 +13,23 @@ public class Deadwood {
     }
 
     public static int gameManager() {
-
+        return = 0;  
     }
 
 
     public static int player() {
-
-
+        return = 0;
     }
     public static int castingOffice() {
-
+        return = 0;
     }
 
     public static int scenes() {
-
-
+        return = 0;
     }
+    
     public static int dice() {
-
+        return = 0;
     }
 
 
