@@ -1,4 +1,4 @@
-public class increaseRankWithFame {
+public class IncreaseRankWithFame {
 
   public takeFame(){
 
