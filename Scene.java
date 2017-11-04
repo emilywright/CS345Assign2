@@ -1,4 +1,4 @@
-public class scene {
+public class Scene {
 
   public startScene() {
 
