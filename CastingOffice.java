@@ -1,5 +1,5 @@
 
-public class castingOffice {
+public class CastingOffice {
 
   public checkPlayerRank() {
 
