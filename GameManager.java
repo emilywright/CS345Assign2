@@ -1,5 +1,5 @@
 
-public class gameManager {
+public class GameManager {
 
   public getPlayerFame(){
 
