@@ -1,4 +1,4 @@
-public class endGame{
+public class EndGame{
 
   public checkNumberDays(){
 
